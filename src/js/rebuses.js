@@ -489,6 +489,11 @@ const rebuses = [
     hint: `Uncle Ben's superhero nephew`
   },
   {
+    symbols: ['🐜', '+', '🧔🏻'],
+    words: ['Antman'],
+    hint: `Marvel's Shrinking superhero`
+  },
+  {
     symbols: ['🐲', '+', '🍑'],
     words: ['Dragonfruit'],
     hint: `A mythical fruit made reality`
